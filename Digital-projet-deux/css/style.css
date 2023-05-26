@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Arimo:wght@700&family=Roboto:wght@100&display=swap");
+@import url(component/avatar.css);
+@import url(component/button.css);
+@import url(component/container.css);
+@import url(component/banner.css);
+body{
+	font-family: 'Arimo', sans-serif;
+	font-size: 18px;
+	text-align: center
+}
+
+h1 h2 h3{
+	font-family: 'Roboto', sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+}
